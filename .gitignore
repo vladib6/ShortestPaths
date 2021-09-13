@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 
 # Precompiled Headers
 *.gch
@@ -30,3 +33,6 @@
 *.exe
 *.out
 *.app
+
+#Folders
+Debug/
